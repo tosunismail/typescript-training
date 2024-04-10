@@ -7,4 +7,7 @@ let lastName: string = 'Tosun';
 
 console.log(found);
 console.log("The grade is " + grade);
+console.log("Hi " + firstName + " " + lastName);
+
+//use template Strings
 console.log(`Hi ${firstName} ${lastName}`);
