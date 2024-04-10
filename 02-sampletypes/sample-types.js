@@ -6,4 +6,4 @@ var firstName = "Ismail";
 var lastName = 'Tosun';
 console.log(found);
 console.log("The grade is " + grade);
-console.log("Hi " + firstName + " " + lastName);
+console.log("Hi ".concat(firstName, " ").concat(lastName));
