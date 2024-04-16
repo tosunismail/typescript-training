@@ -1,4 +1,4 @@
-class Customer{
+class Customer {
 
     firstName: string;
     lastName: string;
@@ -7,6 +7,7 @@ class Customer{
         this.firstName = theFirst;
         this.lastName = theLast;
     }
+    
 }
 
 //let's create an instance
